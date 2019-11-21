@@ -1,4 +1,4 @@
-#Create a simple Ceaser Cyper
+#Create a simple Ceaser Cypher
 
 import encoder
 import decoder
